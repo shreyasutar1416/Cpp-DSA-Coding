@@ -112,6 +112,8 @@ int main(){
 
     vector<bool> vis(7,false);
     graph.dfs(0, vis);
+
+    cout<<graph.hasPath(0,5)<<endl;
     return 0;
 }
 
