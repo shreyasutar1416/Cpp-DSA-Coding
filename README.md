@@ -21,8 +21,7 @@ This repository includes:
 - 🔍 Searching & Sorting
 - 🔗 Linked Lists
 - 📦 Stacks & Queues
-- 🧮 Recursion & Backtracking
-- 🔢 Arrays & Strings
+- 🔢 Arrays 
 - 🧩 Hashing
 - 📊 Segment Trees
 - 🚀 Advanced DSA Concepts
@@ -38,26 +37,12 @@ This repository includes:
 
 ## 📖 Topics Covered
 
-### ✅ Basics
-- Time Complexity
-- Space Complexity
-- STL
-- Pointers
-- Functions
-- Recursion
-
 ### ✅ Arrays
 - Traversal
 - Prefix Sum
 - Kadane's Algorithm
 - Sliding Window
 - Two Pointers
-
-### ✅ Strings
-- String Manipulation
-- Pattern Matching
-- Palindrome Problems
-- Anagrams
 
 ### ✅ Searching
 - Linear Search
@@ -134,11 +119,6 @@ This repository includes:
 - Build Tree
 - Range Query
 - Update Query
-
-### ✅ Backtracking
-- N Queens
-- Sudoku Solver
-- Rat in a Maze
 
 ---
 
